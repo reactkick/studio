@@ -1,4 +1,4 @@
-import { ReplitExplorerClient } from "@/components/replit-explorer-client";
+srimport { ReplitExplorerClient } from "@/components/replit-explorer-client";
 
 export default function HomePage() {
   return (
